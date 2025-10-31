@@ -11,7 +11,7 @@ To write a program to train a classifier for predicting the content type (Movie/
 2. Split data into training and testing sets
 3. Train Random Forest classifier
 4. Predict content type and evaluate accuracy
-
+ 
 ### Program:
 ```
 from google.colab import files
